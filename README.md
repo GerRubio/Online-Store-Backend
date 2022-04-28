@@ -1,3 +1,3 @@
-# Online-Store-Backend
+# Online-Store-Back-end
 
-Backend of Online Store final proyect of Geeks Hubs.
+Back-end of Online Store final project of Geeks Hubs.
